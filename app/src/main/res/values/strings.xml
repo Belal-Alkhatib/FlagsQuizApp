@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">QuizTest</string>
+
+    <string name="a11">India</string>
+    <string name="a21">pakistan</string>
+    <string name="a31">Albania</string>
+
+    <string name="a12">Austria</string>
+    <string name="a22">Angola</string>
+    <string name="a32">Iran</string>
+
+    <string name="a13">Egypt</string>
+    <string name="a23">Japan</string>
+    <string name="a33">China</string>
+
+    <string name="a14">Malaysia</string>
+    <string name="a24">Norway</string>
+    <string name="a34">Japan</string>
+
+    <string name="a15">Iraq</string>
+    <string name="a25">Kazakhstan</string>
+    <string name="a35">Pakistan</string>
+
+    <string name="a16">Palestine</string>
+    <string name="a26">Bahrain</string>
+    <string name="a36">Iraq</string>
+
+    <string name="a17">Mongolia</string>
+    <string name="a27">Spain</string>
+    <string name="a37">Norway</string>
+
+    <string name="a18">Finland</string>
+    <string name="a28">Sweden</string>
+    <string name="a38">Italy</string>
+
+    <string name="a19">Tunisia</string>
+    <string name="a29">Liechtenstein</string>
+    <string name="a39">Italy</string>
+
+    <string name="a110">Maldives</string>
+    <string name="a210">Finland</string>
+    <string name="a310">France</string>
+</resources>
